@@ -2,6 +2,7 @@ Rencana Konten:
 1. javascript 
     * ES6
     * Frameworks javascript
-2. PHP Frameworks
-3. Interviews
-4. Vlog
+2. Fundamental Data Dasar
+3. PHP Frameworks
+4. Interviews
+5. Vlog
